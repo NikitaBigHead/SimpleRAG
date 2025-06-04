@@ -1,0 +1,4 @@
+.idea/
+**__pycache__
+chats.db
+chroma_index/

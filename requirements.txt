@@ -1,0 +1,13 @@
+streamlit
+langchain
+chromadb
+faiss-cpu
+transformers
+sentence-transformers
+PyMuPDF
+diff-match-patch
+numpy
+bitsandbytes
+langchain-community
+pypdf
+pysqlite3-binary
